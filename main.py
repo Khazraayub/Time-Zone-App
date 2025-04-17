@@ -32,7 +32,7 @@ TIME_ZONES = [
     "America/New_york",
     "Europe/London",
     "Asia/Tokyo",
-    "Australia/Sydney",  # corrected spelling
+    "Australia/Sydney",  
     "America/Los_Angeles",
     "Europe/Berlin",
     "Asia/Dubai",
